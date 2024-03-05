@@ -1,0 +1,50 @@
+    1  ls
+    2  cd root
+    3  ls
+    4  git clone https://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@github.com/Chelagat-Pauline-Gechure/alx-backend.git
+    5  ls
+    6  cd alx-backend/
+    7  ls
+    8  mkdir 0x03-queuing_system_in_js
+    9  cd 0x03-queuing_system_in_js
+   10  vi README.md
+   11  git add .
+   12  git commit -m "0x03. Queuing System in JS Readme file"
+   13  git config --global user.email "cpaulineg@gmail.com"
+   14  git config --global user.name "Chelagat-Pauline-Gechure"
+   15  git commit -m "0x03. Queuing System in JS Readme file"
+   16  git push
+   17  ls
+   18  wget http://download.redis.io/releases/redis-6.0.10.tar.gz
+   19  tar xzf redis-6.0.10.tar.gz
+   20  cd redis-6.0.10
+   21  make
+   22  vi package.json
+   23  vi .babelrc
+   24  npm install
+   25  make
+   26  ls
+   27  src/redis-server &
+   28  PONG
+   29  src/redis-cli ping
+   30  set Holberton School
+   31  get Holberton
+   32  127.0.0.1:[Port]> set Holberton School
+   33  ping
+   34  redis.cli
+   35  cd ..
+   36  ls
+   37  git add .
+   38  redis-cli
+   39  ls
+   40  cd ..
+   41  ls
+   42  cd redis-6.0.10is-6.0.10
+   43  cd  cd redis-6.0.10
+   44  ls
+   45  cd redis.conf 
+   46  cd src
+   47  ls
+   48  cd ..
+   49  history
+   50  history >> command_history.txt
